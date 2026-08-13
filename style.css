@@ -1,1 +1,10 @@
-body()
+body{
+background-color: rgb(148, 141, 133)
+}
+header{
+    background-color: azure;
+text-align: center;
+margin: 0px auto;
+max-width: 800px;
+
+}
